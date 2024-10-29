@@ -52,4 +52,4 @@ manager.removeCar(&quot;ABC-123&quot;);
 <p>MIT License.</p>
 
 <h2>Contact</h2>
-<p>For inquiries, reach out to the project creator.</p>
+<p>For inquiries, reach out to the project creator via <a>laulanyumbayire@gmail.com</a>.</p>
