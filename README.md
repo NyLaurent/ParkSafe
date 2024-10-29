@@ -34,13 +34,7 @@ cd ParkSafe
     <li><strong>Run the Project</strong>: Compile and execute the main application.</li>
 </ol>
 
-<h2>Example</h2>
-<pre><code>ParkingLot parkingLot = new ParkingLot(10);
-ParkingManager manager = new ParkingManager(parkingLot);
-Car myCar = new Car(&quot;ABC-123&quot;, &quot;Blue&quot;);
-manager.parkCar(myCar);
-manager.removeCar(&quot;ABC-123&quot;);
-</code></pre>
+
 
 <h2>Future Improvements</h2>
 <ul>
